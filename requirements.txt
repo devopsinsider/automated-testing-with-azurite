@@ -1,2 +1,2 @@
 requests
-azure-storage-blob==12.3.2
+azure-storage-blob==12.13.0
